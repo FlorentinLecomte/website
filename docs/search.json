@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Florentin LECOMTE",
+    "section": "",
+    "text": "Spécialisé en Modélisation pour la Biologie et la Médecine"
+  },
+  {
+    "objectID": "index.html#à-propos-de-moi",
+    "href": "index.html#à-propos-de-moi",
+    "title": "Florentin LECOMTE",
+    "section": "À propos de moi",
+    "text": "À propos de moi\n\n\nBonjour ! Je suis futur ingénieur à Polytech Lyon, et en double diplôme Master 2 “Maths en Action” (spécialité Mathématiques, Biologie et Médecine) à l’Université Claude Bernard Lyon 1.\nPassionné par l’interface entre les mathématiques et le vivant, je recherche activement un financement de thèse. Mon parcours hybride (première année de médecine suivie d’un cursus mathématique) me permet de comprendre les enjeux biologiques tout en maîtrisant les outils de modélisation."
+  },
+  {
+    "objectID": "index.html#expériences-de-recherche",
+    "href": "index.html#expériences-de-recherche",
+    "title": "Florentin LECOMTE",
+    "section": "Expériences de Recherche",
+    "text": "Expériences de Recherche\n\n\n\n\n\n\nNoteAvril – Sept 2026 | University of St Andrews (Écosse)\n\n\n\nStage de recherche : Modélisation mathématique de l’invasion cancéreuse et de la dissémination métastatique.\n\n\n\n\n\n\n\n\nNoteSept 2024 – Jan 2025 | Institut Camille Jordan (Lyon)\n\n\n\nStage de recherche : * Étude de la maladie d’Alzheimer par un modèle mathématique*\n\nAnalyse théorique par degré topologique (existence d’équilibres).\nDéveloppement d’un algorithme de reconnaissance de couronne périnucléaire (Python)."
+  },
+  {
+    "objectID": "index.html#projets-acédémiques",
+    "href": "index.html#projets-acédémiques",
+    "title": "Florentin LECOMTE",
+    "section": "Projets acédémiques",
+    "text": "Projets acédémiques\n\nÉvolution Darwinienne : Simulation stochastique par algorithme de Gillespie (C++/Python) et analyse du branchement évolutif.\nÉpidémiologie : Modélisation de la propagation de la rage à l’aide d’un modèle SEI (Matlab).\nCalcul Haute Performance : Simulation de cavité entraînée via la résolution parallèle (PETSc) des équations de Navier-Stokes sur GPU A100 (C++).\nContrôle Optimal : Optimisation de trajectoire par implémentation du principe du minimum de Pontryagin pour la minimisation de fonctions de coût quadratique (Matlab).\nModélisation Climatique : Modélisation de la circulation thermohaline à l’aide d’EDO et de simulations numériques (Python).\nRéseaux de neurones : Développement d’un réseau neuronal convolutif pour la reconnaissance d’images (Python)."
+  },
+  {
+    "objectID": "index.html#formation",
+    "href": "index.html#formation",
+    "title": "Florentin LECOMTE",
+    "section": "Formation",
+    "text": "Formation\n\n\n\n\n\n\nAstuceM2 Maths en Action\n\n\n\n\n\nÉpidémiologie, Biologie évolutive, Modélisation en écologie spatiale, Approche géométrique pour les images et les formes.\n\n\n\n\n\n\n\n\n\nAstuceM2 Maths en Action & 5ème année\n\n\n\n\n\nCalcul haute performance, Galerkin discontinu, Controle optimal, Modèle de régression, Statistique des processus, Risques, Projet (analyse et reproduction de simulation d’un article scientifique), Ouverture vers les entreprises.\n\n\n\n\n\n\n\n\n\nAstuce4ème année Polytech\n\n\n\n\n\nStage à l’Institut Camille Jordan, Méthode des éléments finis, Problèmes hyperboliques, Séries temporelles, Modèles bayésiens, Analyse numérique, Problème instationnaire, Projet, Ouverture vers les entreprises.\n\n\n\n\n\n\n\n\n\nAstuce3ème année Polytech\n\n\n\n\n\nOptimisation continue, Statistique inférentielle, Réseaux de neurones, Recherche opérationnelle, Génie logiciel, Analyse de données, Base de données, Méthodes mathématiques pour l’ingénieur, Projet de création d’entreprise."
+  },
+  {
+    "objectID": "index.html#compétences",
+    "href": "index.html#compétences",
+    "title": "Florentin LECOMTE",
+    "section": "Compétences",
+    "text": "Compétences\nLangages & Outils Python C/C++ Matlab R LaTeX\nLangues Anglais (Toeic : 890) Espagnol (débutant)"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Florentin LECOMTE",
+    "section": "Publications",
+    "text": "Publications\nP. Amster, F. Lecomte, F. Olivares, L. Pujo-Menjouet. Exploring a Non-Autonomous Model Through Topological Degree : A Radiobiology Application. (En préparation)\nJ. Restier-Verlet, M. L. Ferlazzo, A. Granzotto, J. Al-Choboq, M. Estavoyer, F. Lecomte, M. Bourguignon, L. Pujo-Menjouet and N. Foray. “Accelerated Aging Effects Observed In Vitro after an Exposure to Gamma-Rays Delivered at Very Low and Continuous Dose-Rate Equivalent to 1-5 Weeks in International Space Station”. Cells 2024, 13, 1703."
+  },
+  {
+    "objectID": "index.html#cv-contact",
+    "href": "index.html#cv-contact",
+    "title": "Florentin LECOMTE",
+    "section": "CV & Contact",
+    "text": "CV & Contact\n\n\n Email : lecomteflorentin@gmail.com   Localisation : Saint Andrews, Écosse\n\n\n  Télécharger mon CV (PDF)"
+  },
+  {
+    "objectID": "index-en.html",
+    "href": "index-en.html",
+    "title": "Florentin LECOMTE",
+    "section": "",
+    "text": "Specialized in Modeling for Biology and Medicine"
+  },
+  {
+    "objectID": "index-en.html#about-me",
+    "href": "index-en.html#about-me",
+    "title": "Florentin LECOMTE",
+    "section": "About Me",
+    "text": "About Me\n\n\nHello! I am a future engineer from Polytech Lyon, also completing a double degree Master 2 “Maths in Action” (specializing in Mathematics, Biology, and Medicine) at Claude Bernard University Lyon 1.\nPassionate about the interface between mathematics and life sciences, I am actively seeking PhD funding. My hybrid background (first year of medical school followed by a mathematics curriculum) allows me to understand biological challenges while mastering modeling tools."
+  },
+  {
+    "objectID": "index-en.html#research-experience",
+    "href": "index-en.html#research-experience",
+    "title": "Florentin LECOMTE",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n\n\n\n\n\nNoteApril – Sept 2026 | University of St Andrews (Scotland)\n\n\n\nResearch Internship: Mathematical modeling of cancer invasion and metastatic spread.\n\n\n\n\n\n\n\n\nNoteSept 2024 – Jan 2025 | Institut Camille Jordan (Lyon)\n\n\n\nResearch Internship: Study of Alzheimer’s disease through a mathematical model\n\nTheoretical analysis using topological degree (existence of equilibria).\nDevelopment of a perinuclear crown recognition algorithm (Python)."
+  },
+  {
+    "objectID": "index-en.html#academic-projects",
+    "href": "index-en.html#academic-projects",
+    "title": "Florentin LECOMTE",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\nDarwinian Evolution: Stochastic simulation using the Gillespie algorithm (C++/Python) and analysis of evolutionary branching.\nEpidemiology: Modeling rabies propagation using an SEI model (Matlab).\nHigh Performance Computing: Driven cavity simulation via parallel solving (PETSc) of Navier-Stokes equations on GPU A100 (C++).\nOptimal Control: Trajectory optimization by implementing Pontryagin’s minimum principle for quadratic cost function minimization (Matlab).\nClimate Modeling: Modeling thermohaline circulation using ODEs and numerical simulations (Python).\nNeural Networks: Development of a convolutional neural network for image recognition (Python)."
+  },
+  {
+    "objectID": "index-en.html#education",
+    "href": "index-en.html#education",
+    "title": "Florentin LECOMTE",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\nTipM2 Maths in Action (Master’s Degree)\n\n\n\n\n\nEpidemiology, Evolutionary Biology, Spatial Ecology Modeling, Geometric Approach for Images and Shapes.\n\n\n\n\n\n\n\n\n\nTipM2 Maths in Action & 5th Year Polytech\n\n\n\n\n\nHigh Performance Computing, Discontinuous Galerkin, Optimal Control, Regression Models, Process Statistics, Risk Analysis, Research Project (analysis and reproduction of simulations from a scientific article).\n\n\n\n\n\n\n\n\n\nTip4th Year Polytech\n\n\n\n\n\nInternship at Institut Camille Jordan, Finite Element Method, Hyperbolic Problems, Time Series, Bayesian Models, Numerical Analysis, Unsteady Problems, Academic Project.\n\n\n\n\n\n\n\n\n\nTip3rd Year Polytech\n\n\n\n\n\nContinuous Optimization, Inferential Statistics, Neural Networks, Operations Research, Software Engineering, Data Analysis, Databases, Mathematical Methods for Engineers, Entrepreneurship Project."
+  },
+  {
+    "objectID": "index-en.html#skills",
+    "href": "index-en.html#skills",
+    "title": "Florentin LECOMTE",
+    "section": "Skills",
+    "text": "Skills\nLanguages & Tools Python C/C++ Matlab R LaTeX\nLanguages English (Toeic: 890) Spanish (Beginner)"
+  },
+  {
+    "objectID": "index-en.html#publications",
+    "href": "index-en.html#publications",
+    "title": "Florentin LECOMTE",
+    "section": "Publications",
+    "text": "Publications\nP. Amster, F. Lecomte, F. Olivares, L. Pujo-Menjouet. Exploring a Non-Autonomous Model Through Topological Degree: A Radiobiology Application. (In preparation)\nJ. Restier-Verlet, M. L. Ferlazzo, A. Granzotto, J. Al-Choboq, M. Estavoyer, F. Lecomte, M. Bourguignon, L. Pujo-Menjouet and N. Foray. “Accelerated Aging Effects Observed In Vitro after an Exposure to Gamma-Rays Delivered at Very Low and Continuous Dose-Rate Equivalent to 1-5 Weeks in International Space Station”. Cells 2024, 13, 1703."
+  },
+  {
+    "objectID": "index-en.html#cv-contact",
+    "href": "index-en.html#cv-contact",
+    "title": "Florentin LECOMTE",
+    "section": "CV & Contact",
+    "text": "CV & Contact\n\n\n Email: lecomteflorentin@gmail.com   Location: Saint Andrews, Scotland\n\n\n  Download my CV (PDF)"
+  }
+]
