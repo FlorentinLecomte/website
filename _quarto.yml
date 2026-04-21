@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Florentin Lecomte"
+  navbar:
+    logo: photo_logo.jpg
+    background: primary
+    search: false
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/florentin-lecomte-97208b253/
+      - icon: github
+        href: https://github.com/FlorentinLecomte
+      - text: "FR"
+        href: index.qmd
+      - text: "EN"
+        href: index-en.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    toc-location: left

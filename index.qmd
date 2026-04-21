@@ -1,0 +1,121 @@
+---
+title: ""
+lang: fr
+toc-title: "Sommaire"
+page-layout: full
+---
+
+::: {.hero-banner}
+# Florentin LECOMTE {.unlisted}
+### Étudiant Ingénieur en Mathématiques Appliquées & Modélisation {.unlisted}
+*Spécialisé en Modélisation pour la Biologie et la Médecine*
+:::
+
+## À propos de moi
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-8}
+Bonjour ! Je suis futur ingénieur à Polytech Lyon, et en double diplôme Master 2 "Maths en Action" (spécialité Mathématiques, Biologie et Médecine) à l'Université Claude Bernard Lyon 1.
+
+Passionné par l'interface entre les mathématiques et le vivant, je recherche activement un financement de thèse. Mon parcours hybride (première année de médecine suivie d'un cursus mathématique) me permet de comprendre les enjeux biologiques tout en maîtrisant les outils de modélisation.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](photo_logo.jpg){width=67% style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"}
+:::
+:::
+
+## Expériences de Recherche
+
+::: {.callout-note icon=false}
+### **Avril -- Sept 2026** | University of St Andrews (Écosse)
+**Stage de recherche :** *Modélisation mathématique de l'invasion cancéreuse et de la dissémination métastatique.*
+:::
+
+::: {.callout-note icon=false}
+### **Sept 2024 -- Jan 2025** | Institut Camille Jordan (Lyon)
+**Stage de recherche :** * Étude de la maladie d'Alzheimer par un modèle mathématique*
+
+- Analyse théorique par degré topologique (existence d'équilibres).
+
+- Développement d'un algorithme de reconnaissance de couronne périnucléaire (Python).
+:::
+
+## Projets acédémiques
+
+- **Évolution Darwinienne :** Simulation stochastique par algorithme de Gillespie (C++/Python) et analyse du branchement évolutif.
+- **Épidémiologie :** Modélisation de la propagation de la rage à l'aide d'un modèle SEI (Matlab).
+- **Calcul Haute Performance :** Simulation de cavité entraînée via la résolution parallèle (PETSc) des équations de
+Navier-Stokes sur GPU A100 (C++).
+- **Contrôle Optimal :** Optimisation de trajectoire par implémentation du principe du minimum de Pontryagin pour
+la minimisation de fonctions de coût quadratique (Matlab).
+- **Modélisation Climatique :** Modélisation de la circulation thermohaline à l'aide d'EDO et de simulations numériques
+(Python).
+- **Réseaux de neurones :** Développement d'un réseau neuronal convolutif pour la reconnaissance d'images (Python).
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+## Formation
+
+::: {.callout-tip collapse="true"}
+### M2 Maths en Action
+Épidémiologie, Biologie évolutive, Modélisation en écologie spatiale, Approche géométrique pour les images et les formes.
+:::
+
+::: {.callout-tip collapse="true"}
+### M2 Maths en Action & 5ème année
+Calcul haute performance, Galerkin discontinu, Controle optimal, Modèle de régression, Statistique des processus, Risques, Projet (analyse et reproduction de simulation d'un article scientifique), Ouverture vers les entreprises.
+:::
+
+::: {.callout-tip collapse="true"}
+### 4ème année Polytech
+Stage à l'Institut Camille Jordan, Méthode des éléments finis, Problèmes hyperboliques, Séries temporelles, Modèles bayésiens, Analyse numérique, Problème instationnaire, Projet, Ouverture vers les entreprises.
+:::
+
+::: {.callout-tip collapse="true"}
+### 3ème année Polytech
+Optimisation continue, Statistique inférentielle, Réseaux de neurones, Recherche opérationnelle, Génie logiciel, Analyse de données, Base de données, Méthodes mathématiques pour l'ingénieur, Projet de création d'entreprise.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-5}
+## Compétences
+
+**Langages & Outils** <span class="skill-tag">Python</span>
+<span class="skill-tag">C/C++</span>
+<span class="skill-tag">Matlab</span>
+<span class="skill-tag">R</span>
+<span class="skill-tag">LaTeX</span>
+
+**Langues** <span class="skill-tag">Anglais (Toeic : 890)</span>
+<span class="skill-tag">Espagnol (débutant)</span>
+:::
+
+:::
+
+## Publications
+
+P. Amster, F. Lecomte, F. Olivares, L. Pujo-Menjouet. Exploring a Non-Autonomous Model Through Topological
+Degree : A Radiobiology Application. (En préparation)
+
+J. Restier-Verlet, M. L. Ferlazzo, A. Granzotto, J. Al-Choboq, M. Estavoyer, F. Lecomte, M. Bourguignon, L. Pujo-Menjouet and N. Foray.
+[**"Accelerated Aging Effects Observed In Vitro after an Exposure to Gamma-Rays Delivered at Very Low and Continuous Dose-Rate Equivalent to 1-5 Weeks in International Space Station"**](https://www.mdpi.com/2073-4409/13/20/1703).
+*Cells* 2024, 13, 1703.
+
+---
+
+## CV & Contact
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+**<i class="bi bi-envelope"></i> Email :** [lecomteflorentin@gmail.com](mailto:lecomteflorentin@gmail.com) <br>
+**<i class="bi bi-geo-alt"></i> Localisation :** Saint Andrews, Écosse
+:::
+
+::: {.g-col-12 .g-col-md-6 style="text-align: right;"}
+<a href="CV_fr.pdf" class="btn btn-primary" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Télécharger mon CV (PDF)
+</a>
+:::
+:::

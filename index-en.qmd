@@ -1,0 +1,117 @@
+---
+title: ""
+lang: en
+page-layout: full
+---
+
+::: {.hero-banner}
+# Florentin LECOMTE {.unlisted}
+### Graduate Engineering Student in Applied Mathematics & Modeling {.unlisted}
+*Specialized in Modeling for Biology and Medicine*
+:::
+
+## About Me
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-8}
+Hello! I am a future engineer from Polytech Lyon, also completing a double degree Master 2 "Maths in Action" (specializing in Mathematics, Biology, and Medicine) at Claude Bernard University Lyon 1.
+
+Passionate about the interface between mathematics and life sciences, I am actively seeking PhD funding. My hybrid background (first year of medical school followed by a mathematics curriculum) allows me to understand biological challenges while mastering modeling tools.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](photo_logo.jpg){width=67% style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"}
+:::
+:::
+
+## Research Experience
+
+::: {.callout-note icon=false}
+### **April -- Sept 2026** | University of St Andrews (Scotland)
+**Research Internship:** *Mathematical modeling of cancer invasion and metastatic spread.*
+:::
+
+::: {.callout-note icon=false}
+### **Sept 2024 -- Jan 2025** | Institut Camille Jordan (Lyon)
+**Research Internship:** *Study of Alzheimer's disease through a mathematical model*
+
+- Theoretical analysis using topological degree (existence of equilibria).
+
+- Development of a perinuclear crown recognition algorithm (Python).
+:::
+
+## Academic Projects
+
+- **Darwinian Evolution:** Stochastic simulation using the Gillespie algorithm (C++/Python) and analysis of evolutionary branching.
+- **Epidemiology:** Modeling rabies propagation using an SEI model (Matlab).
+- **High Performance Computing:** Driven cavity simulation via parallel solving (PETSc) of Navier-Stokes equations on GPU A100 (C++).
+- **Optimal Control:** Trajectory optimization by implementing Pontryagin's minimum principle for quadratic cost function minimization (Matlab).
+- **Climate Modeling:** Modeling thermohaline circulation using ODEs and numerical simulations (Python).
+- **Neural Networks:** Development of a convolutional neural network for image recognition (Python).
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+## Education
+
+::: {.callout-tip collapse="true"}
+### M2 Maths in Action (Master's Degree)
+Epidemiology, Evolutionary Biology, Spatial Ecology Modeling, Geometric Approach for Images and Shapes.
+:::
+
+::: {.callout-tip collapse="true"}
+### M2 Maths in Action & 5th Year Polytech
+High Performance Computing, Discontinuous Galerkin, Optimal Control, Regression Models, Process Statistics, Risk Analysis, Research Project (analysis and reproduction of simulations from a scientific article).
+:::
+
+::: {.callout-tip collapse="true"}
+### 4th Year Polytech
+Internship at Institut Camille Jordan, Finite Element Method, Hyperbolic Problems, Time Series, Bayesian Models, Numerical Analysis, Unsteady Problems, Academic Project.
+:::
+
+::: {.callout-tip collapse="true"}
+### 3rd Year Polytech
+Continuous Optimization, Inferential Statistics, Neural Networks, Operations Research, Software Engineering, Data Analysis, Databases, Mathematical Methods for Engineers, Entrepreneurship Project.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-5}
+## Skills
+
+**Languages & Tools** <span class="skill-tag">Python</span>
+<span class="skill-tag">C/C++</span>
+<span class="skill-tag">Matlab</span>
+<span class="skill-tag">R</span>
+<span class="skill-tag">LaTeX</span>
+
+**Languages** <span class="skill-tag">English (Toeic: 890)</span>
+<span class="skill-tag">Spanish (Beginner)</span>
+:::
+
+:::
+
+## Publications
+
+P. Amster, F. Lecomte, F. Olivares, L. Pujo-Menjouet. Exploring a Non-Autonomous Model Through Topological
+Degree: A Radiobiology Application. (In preparation)
+
+J. Restier-Verlet, M. L. Ferlazzo, A. Granzotto, J. Al-Choboq, M. Estavoyer, F. Lecomte, M. Bourguignon, L. Pujo-Menjouet and N. Foray.
+[**"Accelerated Aging Effects Observed In Vitro after an Exposure to Gamma-Rays Delivered at Very Low and Continuous Dose-Rate Equivalent to 1-5 Weeks in International Space Station"**](https://www.mdpi.com/2073-4409/13/20/1703).
+*Cells* 2024, 13, 1703.
+
+---
+
+## CV & Contact
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+**<i class="bi bi-envelope"></i> Email:** [lecomteflorentin@gmail.com](mailto:lecomteflorentin@gmail.com) <br>
+**<i class="bi bi-geo-alt"></i> Location:** Saint Andrews, Scotland
+:::
+
+::: {.g-col-12 .g-col-md-6 style="text-align: right;"}
+<a href="CV_en.pdf" class="btn btn-primary" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Download my CV (PDF)
+</a>
+:::
+:::
