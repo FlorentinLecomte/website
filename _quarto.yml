@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Florentin Lecomte"
+  favicon: photo_logo.jpg
   navbar:
     logo: photo_logo.jpg
     background: primary
@@ -17,6 +18,17 @@ website:
         href: index.qmd
       - text: "EN"
         href: index-en.qmd
+  page-footer:
+    left: "© 2026 Florentin Lecomte. Tous droits réservés."
+    right:
+      - icon: envelope
+        text: lecomteflorentin@gmail.com
+    background: light
+  site-url: "https://florentinlecomte.github.io/website/"
+  open-graph:
+    title: "Florentin Lecomte | Mathématiques Appliquées & Modélisation"
+    description: "Élève ingénieur spécialisé en modélisation pour la biologie et la médecine. Découvrez mon portfolio académique (actuellement en recherche d'un financement de thèse)."
+    image: photo_logo.jpg
 
 format:
   html:
