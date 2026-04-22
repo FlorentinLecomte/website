@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Florentin Lecomte"
-  # favicon: photo_logo.jpg
+  favicon: photo_logo.jpg
   navbar:
     logo: photo_logo.jpg
     background: primary
